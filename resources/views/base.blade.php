@@ -43,10 +43,10 @@
                 <a href="/">CRUD - Home</a>
             </li>
             <li>
-                <a href="/users/create">- Tambah User</a>
+                <a href="/users">- Edit User</a>
             </li>
             <li>
-                <a href="/users">- Daftar User</a>
+                <a href="/users/create">- Tambah User</a>
             </li>
         </ul>
     </aside>

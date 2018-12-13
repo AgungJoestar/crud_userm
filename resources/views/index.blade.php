@@ -5,7 +5,7 @@
         <!-- Add Your Content Inside -->
         <div class="content">
             <!-- Remove This Before You Start -->
-            <h1>Jin Ifrit</h1>
+            <h1>Data User</h1>
         </div>
         <!-- /.content -->
     </section>
